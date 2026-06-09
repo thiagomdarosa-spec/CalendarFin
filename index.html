@@ -50,6 +50,10 @@
       .hero{padding-top:42px}
     }
 
+    /* Ajuste solicitado: reduzir somente o selo Google Play no cabeçalho */
+    header .play-badge{height:34px;max-width:154px;width:auto;object-fit:contain}
+    @media(max-width:560px){header .play-badge{height:auto;max-width:132px}}
+
   </style>
   <script type="application/ld+json">{"@context":"https://schema.org","@type":"SoftwareApplication","name":"CalendarFin","applicationCategory":"FinanceApplication","operatingSystem":"Android","description":"Aplicativo de calendário financeiro para organizar contas a pagar, contas a receber, avisos e relatórios.","offers":{"@type":"Offer","priceCurrency":"BRL"}}</script>
 </head>
