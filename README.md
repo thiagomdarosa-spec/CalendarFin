@@ -1,4 +1,4 @@
-# CalendarFin - Site pronto para GitHub Pages
+# CalendarFin - Site GitHub Pages
 
 Arquivos principais:
 
